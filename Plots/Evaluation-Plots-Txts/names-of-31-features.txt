@@ -1,0 +1,7 @@
+['open', 'high', 'low', 'close', 'volume', 'month', 'return_past_1d',
+       'volatility_1d', 'ma_1d', 'momentum_1d', 'return_past_5d',
+       'volatility_5d', 'ma_5d', 'momentum_5d', 'return_past_10d',
+       'volatility_10d', 'ma_10d', 'momentum_10d', 'return_past_20d',
+       'volatility_20d', 'ma_20d', 'momentum_20d', 'return_past_65d',
+       'volatility_65d', 'ma_65d', 'momentum_65d', 'return_past_250d',
+       'volatility_250d', 'ma_250d', 'momentum_250d', 'ohlc_avg']

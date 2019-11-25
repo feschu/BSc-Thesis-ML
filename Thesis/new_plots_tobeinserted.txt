@@ -1,0 +1,17 @@
+Alle Stocks mit Index=100: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Stock-Price-Plots/All-Stocks-Price-Plots-log.jpeg
+
+PUnktwolken DT: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Evaluation-Plots-Final/DF-Heatmap-Importances-MulticolorBig-DT.jpeg
+und RF: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Evaluation-Plots-Final/DF-Heatmap-Importances-MulticolorBig-RF.jpeg
+ -> Außreißer sind das letzte (31.) feature jeweils für 65d und 250d: "ohlc_avg" --> Spiegelt alle 4 wieder, aussagekräftiger als die enzelnen. 
+
+Extracteds Impact: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Evaluation-Plots-Final/Feature-Extraction-Impact.jpeg
+mit TABLELE in BA ergänzen: 
+		Normal	Extracted	Diff
+Dummy	0,571	0,571		0,000
+DT		0,514	0,557		0,043
+RF		0,530	0,563		0,033
+TunedDT	0,547	0,571		0,024
+TunedRF	0,548	0,569		0,021
+
+
+Final F-Meausres von heir: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/tree/Plots/Evaluation-Plots
