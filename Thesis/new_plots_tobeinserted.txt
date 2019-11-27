@@ -1,3 +1,5 @@
+Siehe PowerPoint Folien für Ergebnisse und Links zu Plots.
+
 Alle Stocks mit Index=100: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Stock-Price-Plots/All-Stocks-Price-Plots-log.jpeg
 
 PUnktwolken DT: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Evaluation-Plots-Final/DF-Heatmap-Importances-MulticolorBig-DT.jpeg
@@ -6,19 +8,21 @@ und RF: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html
 
 Extracteds Impact: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Evaluation-Plots-Final/Feature-Extraction-Impact.jpeg
 mit TABLELE in BA ergänzen: 
-		Normal	Extracted	Diff
-Dummy	0,571	0,571		0,000
-DT		0,514	0,557		0,043
-RF		0,530	0,563		0,033
-TunedDT	0,547	0,571		0,024
-TunedRF	0,548	0,569		0,021
+\begin{table}[]
+\begin{tabular}{llll}
+        & Normal & Extracted & Diff  \\
+Dummy   & 0,565  & 0,565     & 0,000 \\
+DT      & 0,559  & 0,567     & 0,007 \\
+RF      & 0,569  & 0,587     & 0,019 \\
+TunedDT & 0,543  & 0,574     & 0,030 \\
+TunedRF & 0,572  & 0,584     & 0,012
+\end{tabular}
+\end{table}
 
-
-Final F-Meausres von heir: https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/tree/Plots/Evaluation-Plots
 
 
 GROUPS performane plots: 
- TBD: LatexTabelle mit Grouppe|Beschriebung|Datenesets 
+ TBD: LatexTabelle mit Grouppe|Beschriebung|Datenesets für
 - https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Stock-Price-Plots/Group1-Price-Plots-log.jpeg
 - https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Stock-Price-Plots/Group2-Price-Plots-log.jpeg
 - https://notebooks.azure.com/felix-schuhbauer/projects/bsc-thesis-ml/html/Plots/Stock-Price-Plots/Group3-Price-Plots-log.jpeg
