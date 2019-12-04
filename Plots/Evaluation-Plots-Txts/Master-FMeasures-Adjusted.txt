@@ -2032,3 +2032,27 @@ Model TunedDT
 0.5520231213872833
 0.4919614147909968
 0.009852216748768473
+
+Group 1
+
+Model TunedRF
+
+Model TunedDummy
+
+Model TunedDT
+
+Group 2
+
+Model TunedRF
+
+Model TunedDummy
+
+Model TunedDT
+
+Group 3
+
+Model TunedRF
+
+Model TunedDummy
+
+Model TunedDT
